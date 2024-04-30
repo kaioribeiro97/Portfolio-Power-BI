@@ -26,6 +26,32 @@ Este painel apresenta duas páginas:
       Seleção simples de Pokémon em menus suspensos.
      
 LINK: https://bit.ly/pokemon_power_bi
+
+## Painel do Campeonato Brasileiro de Futebol (Brasileirão)
+
+Este painel abrange os dados do Campeonato Brasileiro de Futebol de 2013 a 2022, fornecendo uma visão abrangente das estatísticas e tendências ao longo desses anos. Ele inclui:
+
+  1. Artilheiros:
+     
+      Destaca os principais goleadores de cada temporada.
+  2. Estádios com Mais Partidas:
+
+      Identifica os estádios que sediaram o maior número de jogos ao longo dos anos.
+  3. Times Mais Vezes Campeões:
+   
+      Lista os times que conquistaram o título do Brasileirão com mais frequência.
+  4. Times com Mais Vitórias:
+
+      Mostra os times com o maior número de vitórias acumuladas ao longo das temporadas.
+  5. Times com Mais Cartões:
+
+      Indica os times que receberam o maior número de cartões (amarelos e vermelhos) durante as partidas.
+  6. Jogadores com Mais Cartões:
+    
+      Destaca os jogadores que receberam o maior número de cartões durante as temporadas.
+  7. Entre outros visuais.
+
+LINK: 
 # Como Visualizar
 
 Para visualizar os painéis e relatórios, basta clicar nos links fornecidos acima. Se você estiver interessado em explorar mais detalhadamente o processo de desenvolvimento por trás desses projetos ou tiver alguma dúvida, sinta-se à vontade para entrar em contato comigo.
