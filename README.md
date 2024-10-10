@@ -51,7 +51,21 @@ Este painel abrange os dados do Campeonato Brasileiro de Futebol de 2013 a 2022,
       Destaca os jogadores que receberam o maior número de cartões durante as temporadas.
   7. Entre outros visuais.
 
-LINK: 
+LINK: https://bit.ly/Power_BI_Brasileirão
+
+## Painel de vendas
+Este painel apresenta dados de vendas de uma empresa ficticia com vendas de 2020 a 2022. O painel apresenta quatro telas:
+  
+  1.  Dashboard
+      Apresenta um dashboard para analise de faturamentos, como faturamento ao longo do tempo, por loja, por cliente ou por país.
+  2.  Clientes
+      Mostra os clientes que mais realizaram compras, metódo de comparas realizados e faturamento por genero.
+  3.  Lojas
+      Indica as lojas que mais tiveram faturamento e devoluções. 
+  4.  Produtos
+      Lista os produtoes que obtiveram o melhor desempenho.
+Link: https://bit.ly/Dashboard_vendas
+
 # Como Visualizar
 
 Para visualizar os painéis e relatórios, basta clicar nos links fornecidos acima. Se você estiver interessado em explorar mais detalhadamente o processo de desenvolvimento por trás desses projetos ou tiver alguma dúvida, sinta-se à vontade para entrar em contato comigo.
